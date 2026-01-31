@@ -1,10 +1,10 @@
-# 🔳 SDET & QA Automation Engineer
+# ★ SDET & QA Automation Engineer
 
 **Engineering high-precision autonomous testing systems.**
 
 ---
 
-### 🛠 Tech Stack
+### ⚡︎ Tech Stack
 ◦ **Language:** Python 3.12+ `[Type Hinting | Pydantic]`  
 ◦ **Core:** Pytest • Playwright • Appium  
 ◦ **Infra:** Docker • GitHub Actions • CI/CD  
@@ -19,7 +19,7 @@
 
 ---
 
-### 📊 Performance Metrics
+### ♱ Performance Metrics
 ---
 
 ### ✉ Connectivity
