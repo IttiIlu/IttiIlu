@@ -1,16 +1,26 @@
-## Hi there 👋
+# Software Development Engineer in Test (SDET)
 
-<!--
-**IttiIlu/IttiIlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Expertise in building high-performance automation frameworks and autonomous testing systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+**Languages:** Python 3.12+ (Type Hinting, Pydantic)  
+**Core:** Pytest, Playwright, Appium  
+**DevOps:** Docker, GitHub Actions, CI/CD  
+**Next-Gen:** AI-driven testing (LLMs, LangChain)
+
+---
+
+### 🚀 Key Focus
+* **Scalability:** Architecting test suites for high-load fintech systems.
+* **Efficiency:** Reducing release cycles through deep CI/CD integration.
+* **Innovation:** Implementing AI for self-healing test automation.
+
+---
+
+### 📈 GitHub Stats
+---
+
+### 📩 Connectivity
+[LinkedIn] | [Email] | [Location: Connecticut, USA]
