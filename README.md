@@ -23,8 +23,6 @@
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=IttiIlu&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true)
 
-![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IttiIlu&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true)
-
 ---
 
 ### ✉ Connectivity
