@@ -21,9 +21,9 @@
 
 ### ♱ Performance Metrics
 
-![IttiIlu Stats](https://github-readme-stats.vercel.app/api?username=IttiIlu&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=IttiIlu&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true)
 
-![IttiIlu Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IttiIlu&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true)
+![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IttiIlu&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true)
 
 ---
 
