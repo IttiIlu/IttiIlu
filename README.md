@@ -1,26 +1,27 @@
-# Software Development Engineer in Test (SDET)
+# 🔳 SDET & QA Automation Engineer
 
-Expertise in building high-performance automation frameworks and autonomous testing systems.
-
----
-
-### 💻 Tech Stack
-**Languages:** Python 3.12+ (Type Hinting, Pydantic)  
-**Core:** Pytest, Playwright, Appium  
-**DevOps:** Docker, GitHub Actions, CI/CD  
-**Next-Gen:** AI-driven testing (LLMs, LangChain)
+**Engineering high-precision autonomous testing systems.**
 
 ---
 
-### 🚀 Key Focus
-* **Scalability:** Architecting test suites for high-load fintech systems.
-* **Efficiency:** Reducing release cycles through deep CI/CD integration.
-* **Innovation:** Implementing AI for self-healing test automation.
+### 🛠 Tech Stack
+◦ **Language:** Python 3.12+ `[Type Hinting | Pydantic]`  
+◦ **Core:** Pytest • Playwright • Appium  
+◦ **Infra:** Docker • GitHub Actions • CI/CD  
+◦ **AI:** OpenAI API • LangChain • Autonomous Testing
 
 ---
 
-### 📈 GitHub Stats
+### ♟ Engineering Focus
+◼ **Stability:** Building resilient test suites for high-load systems.  
+◼ **Architecture:** Designing scalable CI/CD pipelines.  
+◼ **Innovation:** Integrating LLMs into the QA lifecycle.
+
 ---
 
-### 📩 Connectivity
-[LinkedIn] | [Email] | [Location: Connecticut, USA]
+### 📊 Performance Metrics
+---
+
+### ✉ Connectivity
+**LOCATION:** 📍 Connecticut, USA  
+**ENDPOINT:** [LinkedIn] ◦ [Email]
