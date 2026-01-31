@@ -26,5 +26,5 @@
 ---
 
 ### 𔒝 Connectivity
-**LOCATION:** ⚚ Connecticut, USA  
+**LOCATION:** Connecticut, USA  
 **ENDPOINT:** [LinkedIn] ◦ [Email]
