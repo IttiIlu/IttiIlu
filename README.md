@@ -13,9 +13,9 @@
 ---
 
 ### 𖦏 Engineering Focus
-◼ **Stability:** Building resilient test suites for high-load systems.  
-◼ **Architecture:** Designing scalable CI/CD pipelines.  
-◼ **Innovation:** Integrating LLMs into the QA lifecycle.  
+◦ **Stability:** Building resilient test suites for high-load systems.  
+◦ **Architecture:** Designing scalable CI/CD pipelines.  
+◦ **Innovation:** Integrating LLMs into the QA lifecycle.  
 
 ---
 
