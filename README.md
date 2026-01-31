@@ -18,6 +18,9 @@
 ◼ **Innovation:** Integrating LLMs into the QA lifecycle.  
 
 ---
+### 📂 Recent Work
+* ⬡ **[finance-logic-testing](https://github.com/IttiIlu/HelloWorld)** — Core logic validation suite for financial transactions. `[Python | Pytest]`
+---
 
 ### ♱ Performance Metrics
 
